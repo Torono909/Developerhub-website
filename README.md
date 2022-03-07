@@ -1,3 +1,2 @@
 # Infinity server website
-**cul server**
-"# IS Website" 
+**cul server & website** 
